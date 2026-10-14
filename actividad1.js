@@ -23,7 +23,7 @@ const pelicula = {
     { nombre: "Sebastian Stan", personaje: "Winter Soldier", rol: "Protagonistas"},
     { nombre: "Chris Pratt", personaje: "Star Lord", rol: "Protagonistas"}
   ],
-  sinopsis: "",
+  sinopsis: "Thanos reúne las seis Gemas del Infinito y, tras derrotar a los Vengadores, elimina a la mitad de la vida en el universo con un chasquido de dedos.",
   direccion: ["Hermanos Russo"],
   escritores: ["Christopher Markus", "Stephen McFeely"]
 }
