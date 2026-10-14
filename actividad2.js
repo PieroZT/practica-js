@@ -1,9 +1,16 @@
 //Crear un objeto que contenga informacion computador
 //cadenas, enteros, decimales,logicos, arreglos, nuevos objetos
 const computadora = {
-  clave: "valor",
+  marca: "HP",
   entero: 4,
-  decimales: 4.82,
-  arreglos: [],
-  objetos: [{},{},{}]
-}
+  decimal: 4.82,
+  encendida: true,
+  accesorios: ["Mouse", "Teclado", "Audífonos"],
+  procesador: {
+    marca: "Intel",
+    modelo: "Core i7",
+    velocidadGHz: 3.5
+  }
+};
+
+console.log(computadora.marca);
